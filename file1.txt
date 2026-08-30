@@ -1,1 +1,2 @@
 this is my first GitHub assignment
+This file was modified using GitHub GUI
